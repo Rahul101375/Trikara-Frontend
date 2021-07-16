@@ -2,6 +2,7 @@
   "name": "social-network-frontend",
   "version": "1.0.0",
   "private": true,
+  "homepage": "/",
   "dependencies": {
     "@apollo/client": "^3.2.2",
     "apollo-upload-client": "^14.1.2",
